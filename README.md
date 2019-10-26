@@ -1,3 +1,5 @@
+This template is adapted from a tutorial by Programming with Mosh, features I added were the decrement button/function, the stop at the 0 value and some other design features.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
